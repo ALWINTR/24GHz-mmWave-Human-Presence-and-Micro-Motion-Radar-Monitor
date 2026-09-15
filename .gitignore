@@ -1,2 +1,10 @@
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+.pio/
+.vscode/
+.DS_Store
+Thumbs.db
 *.log
-*.tmp
