@@ -132,3 +132,8 @@ cd 24GHz-mmWave-Human-Presence-and-Micro-Motion-Radar-Monitor
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+
+---
+## 💬 Technical Development & Pair-Programming Logs
+The complete development logs and technical discussions for this project are documented in [CHAT_HISTORY.md](CHAT_HISTORY.md).
